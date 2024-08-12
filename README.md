@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Achiver-69
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Andriod Studio
+- 👀 I had learnt Andiod Studio
+- 🌱 I’m currently learning Flutter and DL
 - 💞️ I’m looking to collaborate on Programing
 - 📫 Only GitHub
 
