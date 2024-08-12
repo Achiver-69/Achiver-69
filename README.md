@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Achiver-69
+- 👋 Hi, I’m @Qamar
 - 👀 I’m interested in AI
 - 👀 I had learnt Andiod Studio
 - 🌱 I’m currently learning Flutter and DL
